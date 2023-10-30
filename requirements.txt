@@ -7,3 +7,4 @@ motor==2.3.0
 pytz
 asyncio
 pymongo[srv]==3.12.3
+asyncio==3.4.3
